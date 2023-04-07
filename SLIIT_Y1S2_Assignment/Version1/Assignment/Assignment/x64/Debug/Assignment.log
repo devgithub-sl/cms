@@ -1,0 +1,15 @@
+﻿  Admin.cpp
+  ConstructionMaterials.cpp
+  Contract.cpp
+  Customer.cpp
+  Department.cpp
+  Dependant.cpp
+  Employee.cpp
+  Main.cpp
+  Payment.cpp
+  Project.cpp
+  Rating.cpp
+  Supervisor.cpp
+  Supplier.cpp
+  Generating Code...
+  Assignment.vcxproj -> C:\Users\user2\source\repos\Assignment\x64\Debug\Assignment.exe
