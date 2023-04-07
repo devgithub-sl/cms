@@ -1,4 +1,4 @@
-# Y1S2 Assignment
+# Construction Management System
 1. Contains the Original Assignment Document for our group project based on the topic **Construction Management System**
 2. Contains the updated version of the source code which i rewrote 
 3. The new source code still doesn't function like i want it to but i will update it eventually as my programming skills get improved
